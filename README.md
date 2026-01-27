@@ -19,7 +19,6 @@ This project focuses on building a **Deep Learning-based image classification mo
 1. **Data Preprocessing:**
 
    * Resized and normalized all input images for consistency.
-   * Applied image augmentation to improve model generalization.
 
 2. **Model Development:**
 
