@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+.env
+
+# Model files can be large - track via Git LFS or host externally instead
+# Remove the line below if you DO want to commit the model to the repo
+models/*.keras
